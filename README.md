@@ -1,6 +1,6 @@
 # HTML Compiler
 
-num-13 is a script that checks if a number is equal to 13.
+This software is a simple html, css and js compiler built on a simple runtime and lightning fast compiling
 
 ## Installation
 

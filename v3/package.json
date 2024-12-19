@@ -1,6 +1,6 @@
 {
-  "name": "jittery-edge-adjust-sujyv",
-  "productName": "jittery-edge-adjust-sujyv",
+  "name": "HTML Interpreter",
+  "productName": "HTML Compiler",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",

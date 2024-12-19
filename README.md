@@ -7,7 +7,8 @@ This software is a simple html, css and js compiler built on a simple runtime an
 Click [install](https://git-package.github.io/num-13/num-13.py) to install the script or use the bash command below.
 
 ```bash
-Invoke-WebRequest 'https://raw.githubusercontent.com/git-package/num-13/main/num-13.py' -OutFile ./num-13.py
+New-Item -Path "C:\Program Files\" -Name "Compiler" -ItemType "directory"
+Invoke-WebRequest $myDownloadUrl -OutFile C:\Program Files\file.ext
 ```
 
 ## Run

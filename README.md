@@ -17,15 +17,17 @@ Invoke-WebRequest https://git-package.github.io/compiler/v3/styles.css -OutFile 
 
 ## Run
 
+Just run the html file or use the command below.
+
 ```bash
 start chrome <your_filename_path>
 ```
 
 ## How to use
 
-When you run the script it will request the number. once input the script will output the numbers status.
+It's straightforward just enter your code then click "run."
 
-Updates will be released to improve the script.
+There will be updates in the future to assis with coding.
 
 ## License
 

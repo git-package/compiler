@@ -8,7 +8,8 @@ Click [install](https://git-package.github.io/compiler/v3/compiler.zip) to insta
 
 ```bash
 New-Item -Path "C:\Program Files\" -Name "Compiler" -ItemType "directory"
-Invoke-WebRequest $myDownloadUrl -OutFile C:\Program Files\file.ext
+Invoke-WebRequest https://git-package.github.io/compiler/v3/index.html -OutFile C:\Program Files\Compiler/index.html
+Invoke-WebRequest https://git-package.github.io/compiler/v3/index.js -OutFile C:\Program Files\Compiler/index.html
 ```
 
 ## Run

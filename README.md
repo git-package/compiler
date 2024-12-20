@@ -18,7 +18,7 @@ Invoke-WebRequest https://git-package.github.io/compiler/v3/styles.css -OutFile 
 ## Run
 
 ```bash
-python num-13.py
+start chrome <your_filename_path>
 ```
 
 ## How to use

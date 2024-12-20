@@ -4,7 +4,7 @@ This software is a simple html, css and js compiler built on a simple runtime an
 
 ## Installation
 
-Click [install](https://git-package.github.io/num-13/num-13.py) to install the script or use the bash command below.
+Click [install](https://git-package.github.io/compiler/v3/compiler.zip) to install the script or use the bash command below.
 
 ```bash
 New-Item -Path "C:\Program Files\" -Name "Compiler" -ItemType "directory"

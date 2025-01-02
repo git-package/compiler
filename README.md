@@ -8,11 +8,11 @@ Click [install](https://git-package.github.io/compiler/v3/compiler.zip) to insta
 
 ```bash
 New-Item -Path "C:\Program Files\" -Name "Compiler" -ItemType "directory"
-Invoke-WebRequest https://git-package.github.io/compiler/v3/index.html -OutFile C:\Program Files\Compiler/index.html
-Invoke-WebRequest https://git-package.github.io/compiler/v3/main.js -OutFile C:\Program Files\Compiler/main.js
-Invoke-WebRequest https://git-package.github.io/compiler/v3/.gitignore -OutFile C:\Program Files\Compiler/.gitignore
-Invoke-WebRequest https://git-package.github.io/compiler/v3/package.json -OutFile C:\Program Files\Compiler/package.json
-Invoke-WebRequest https://git-package.github.io/compiler/v3/styles.css -OutFile C:\Program Files\Compiler/styles.css
+Invoke-WebRequest https://git-package.github.io/compiler/v3/index.html -OutFile C:\Program Files\Compiler\index.html
+Invoke-WebRequest https://git-package.github.io/compiler/v3/main.js -OutFile C:\Program Files\Compiler\main.js
+Invoke-WebRequest https://git-package.github.io/compiler/v3/.gitignore -OutFile C:\Program Files\Compiler\.gitignore
+Invoke-WebRequest https://git-package.github.io/compiler/v3/package.json -OutFile C:\Program Files\Compiler\package.json
+Invoke-WebRequest https://git-package.github.io/compiler/v3/styles.css -OutFile C:\Program Files\Compiler\styles.css
 ```
 
 ## Run

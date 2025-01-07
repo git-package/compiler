@@ -1,4 +1,3 @@
-# HTML Compiler
 
 This software is a simple html, css and js compiler built on a simple runtime and lightning fast compiling. Click [here](https://git-package.github.io/compiler/demo) to run demo.
 
